@@ -1,0 +1,7 @@
+.wechat-app {
+    display: flex;
+    height: 600px;
+    margin: 50px 100px;
+    background:rgba(54, 48, 54, 0.467);
+    border-radius: 8px;
+}

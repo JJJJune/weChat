@@ -1,0 +1,9 @@
+.wechat-menu {
+    background:rgb(43, 41, 41);
+    display: flex;
+    flex-direction:column;
+    width: 70px;
+    height: 100%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
